@@ -1,0 +1,4 @@
+import pyautogui
+for x in range(0, 50):
+    pyautogui.click(282, 290)
+    pyautogui.click(422, 192)
